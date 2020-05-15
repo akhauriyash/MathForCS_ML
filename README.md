@@ -94,7 +94,7 @@ Set M with operation MxM -> M and element 'e' satisfying (G1) and (G2) is a mono
 **Orthogonal Group O(n)**:
 1. Set of N x N invertible matrices (Q) with real coefficients 
 2. QQ' = Q'Q = In
-
+(Q' is the transpose here.)
 **Special Orthogonal Group SO(n)**:
 1. Sub-group of O(n) with Det(Q) = 1
 
@@ -107,6 +107,11 @@ Set M with operation MxM -> M and element 'e' satisfying (G1) and (G2) is a mono
 **Fields**
 
 ![def2.22](images/def2.22.png)
+
+**Characteristic of Field**
+
+![def2.28](images/def2.28.png)
+
 
 ### Vector Spaces, Bases, Linear Maps <a name="Ch3"></a>
 
