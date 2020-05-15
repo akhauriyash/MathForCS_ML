@@ -72,7 +72,7 @@ Important chapters (Personally, chapters as indicated by Contents):
 These are just meant to be notes for personal use, you may find them useful. I have very limited background in mathematics, so there may be mistakes here. 
 You will most definitely need to keep the book open on the side as this mentions specific definitions/propositions by reference for brevity. 
 
-I may give up on this endeavor at any moment I find better ways to condense knowledge for myself. 
+I may give up on this endeavor at any moment I find better ways to condense knowledge for myself. Honestly, this may be hard to read/understand unless you have a background in mathematics or have read this book atleast roughly. 
 
 ## Groups, Rings, and Fields <a name="#Ch2"></a>
 
@@ -136,7 +136,7 @@ Set M with operation MxM -> M and element 'e' satisfying (G1) and (G2) is a mono
 
 ![prop7.2](images/prop7.2.png)
 
-**Properties of Alteranting Multilinear Maps**:
+**Properties of Alternating Multilinear Maps**:
 
 ![prop7.3](images/prop7.3.png)
 
@@ -144,6 +144,34 @@ Set M with operation MxM -> M and element 'e' satisfying (G1) and (G2) is a mono
 
 ![lemma7.4a](images/lemma7.4a.png)
 ![lemma7.4b](images/lemma7.4b.png)
+
+Note how:
+
+![wowdet](images/wowdet.png)
+
+![remarkpg193](images/remarkpg193.png)
+
+For the rest of this chapter, K is a commutative ring and when needed a field.
+
+**Adjugate and Minor**
+
+![def7.7](images/def7.7.png)
+
+**Invertibility of a Matrix**
+
+![prop7.10](images/prop7.10.png)
+
+**Determinant of a Linear Map**
+
+![def7.8](images/def7.8.png)
+
+**Cayley-Hamilton Theorem**
+
+![theo7.14](images/theo7.14.png)
+
+**Permanents**
+It is a multilinear symmetric form. Refer to book for an execllent interpretation of permanents. 
+![permanentspg209](images/permanentspg209.png)
 
 ## Gaussian Elimination, LU, Cholesky, Echelon Form <a name="Ch8"></a>
 ## Vector Norms and Matrix Norms <a name="Ch9"></a>
