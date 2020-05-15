@@ -174,6 +174,37 @@ It is a multilinear symmetric form. Refer to book for an execllent interpretatio
 ![permanentspg209](images/permanentspg209.png)
 
 ## Gaussian Elimination, LU, Cholesky, Echelon Form <a name="Ch8"></a>
+This chapter assumes all vector spaces are over the field R. All results that do not rely on the ordering on R or on taking square roots hold for arbitrary fields.
+
+Read the book for background on Bezier curves and curve interpolation.
+**Gaussian Elimination**
+1. Computing inverse directly is inefficient. 
+2. Solving large linear systems by computing determinants (Cramers formulae) not used. 
+
+Solution trivial if A is an upper-triangular matrix. 
+We use Gaussian elimination to iteratively eliminate variables using simple row operations.
+
+![theo8.1](images/theo8.1.png)
+
+![def8.1](images/def8.1.png)
+
+
+![theo8.5a](images/theo8.5a.png)
+![theo8.5b](images/theo8.5b.png)
+![theo8.5c](images/theo8.5c.png)
+
+![theo8.10](images/theo8.10.png)
+
+**Transvections and Dilatations**
+Transvections and Dilatations characterize the linear isomorphisms of a vector space E that leave some vector in some hyperplane fixed. These maps are linear maps represented in some suitable basis by elementary matrices of the form E<sub>i,j;β</sub> (Transvections) or E<sub>i,λ</sub> (Dilatations).
+1. Transvections generate the group SL(E)
+2. Dilatations generate the group GL(E) 
+
+![def8.6](images/def8.6.png)
+
+![def8.7](images/def8.7.png)
+
+
 ## Vector Norms and Matrix Norms <a name="Ch9"></a>
 ## Iterative Methods for Solving Linear Systems <a name="Ch10"></a>
 ## The Dual Space and Duality <a name="Ch11"></a>
