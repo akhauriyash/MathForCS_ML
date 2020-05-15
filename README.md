@@ -70,6 +70,8 @@ The book can be found [here.](https://www.cis.upenn.edu/~jean/gbooks/geomath.htm
 These are just meant to be notes for personal use, you may find them useful. I have very limited background in mathematics, so there may be mistakes here. 
 You will most definitely need to keep the book open on the side as this mentions specific definitions/propositions by reference for brevity. 
 
+I may give up on this endeavor at any moment I find better ways to condense knowledge for myself. 
+
 ### Groups, Rings, and Fields <a name="#Ch2"></a>
 
 ![def2.1](images/def2.1.png)
@@ -95,6 +97,14 @@ Set M with operation MxM -> M and element 'e' satisfying (G1) and (G2) is a mono
 
 **Special Orthogonal Group SO(n)**:
 1. Sub-group of O(n) with Det(Q) = 1
+
+Proposition 2.7: For finite group G, subgroup H of G, orcer of H divides order of G.
+
+**Rings**
+![def2.16](images/def2.16.png)
+
+**Fields**
+![def2.22](images/def2.22.png)
 
 ### Vector Spaces, Bases, Linear Maps <a name="Ch3"></a>
 
