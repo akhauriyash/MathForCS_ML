@@ -206,6 +206,47 @@ Transvections and Dilatations characterize the linear isomorphisms of a vector s
 
 
 ## Vector Norms and Matrix Norms <a name="Ch9"></a>
+
+![def9.1](images/def9.1.png)
+
+**Holders Inequalities**
+
+![coll9.2](images/coll9.2.png)
+
+For p = 2, it is the standard Cauchy-Schwarz inequality. 
+
+**Equivalence of norms**
+
+![def9.2](images/def9.2.png)
+
+Check : Corollary 9.4.
+
+![theo9.5](images/theo9.5.png)
+
+Normal Matrix     M<sub>n</sub>(C)  : AA* = A\*A
+Unitary Matrix    M<sub>n</sub>(C)  : UU* = U\*U = I
+Orthogonal Matrix M<sub>n</sub>(R)  : QQ<sup>T</sup> = Q<sup>T</sup>Q = I
+
+**Characteristic Polynomial, eigenvalues, spectrum and spectral radius.**
+![def9.5](images/def9.5.png)
+
+Spectral radius of M<sub>n</sub>(C) is always smaller-than or equal to any matrix norm.
+
+![def9.6](images/def9.6.png)
+
+Frobenius Norm : 
+1. It is a matrix norm.
+2. Untarily invariant
+
+Proposition 9.8:
+It says that every linear map on a finite-dimensional space is bounded, impyling that every linear map on a finite-dimensional space is continuous. 
+
+Check Section 9.3 (Subordinate Norms) for another method of obtaining matrix norms. 
+
+**Condition Number**
+For its properties, refer to Proposition 9.17.
+![def9.10](images/def9.10.png)
+
 ## Iterative Methods for Solving Linear Systems <a name="Ch10"></a>
 ## The Dual Space and Duality <a name="Ch11"></a>
 ## Euclidean Spaces <a name="Ch12"></a>
