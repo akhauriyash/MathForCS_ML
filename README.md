@@ -74,18 +74,27 @@ You will most definitely need to keep the book open on the side as this mentions
 
 ![def2.1](images/def2.1.png)
 
-Abelian: A group G is *abelian* (or commutative) if:
+**Abelian**:
+A group G is *abelian* (or commutative) if:
 ![abel](images/abel.png)
 
-Monoid: Set M with operation MxM -> M and element 'e' satisfying (G1) and (G2) is a monoid. Not necessarily a group.
+**Monoid**:
+Set M with operation MxM -> M and element 'e' satisfying (G1) and (G2) is a monoid. Not necessarily a group.
 
 **General Linear Group GL(n, R) or GL(n, C)** : 
-1. NxN Invertible with Real/Complex Coefficients
+1. N x N Invertible with Real/Complex Coefficients
 2. Group under MatMul
 3. Identity element In
 
 **Special Linear Group SL(n, R) or GL(n, R)**:
 1. Sub-group of GL with det(matrix) = 1
+
+**Orthogonal Group O(n)**:
+1. Set of N x N invertible matrices (Q) with real coefficients 
+2. QQ' = Q'Q = In
+
+**Special Orthogonal Group SO(n)**:
+1. Sub-group of O(n) with Det(Q) = 1
 
 ### Vector Spaces, Bases, Linear Maps <a name="Ch3"></a>
 
