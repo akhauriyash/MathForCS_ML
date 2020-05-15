@@ -65,63 +65,63 @@ The book can be found [here.](https://www.cis.upenn.edu/~jean/gbooks/geomath.htm
 - [Total Orthogonal Families in Hilbert Spaces](#Ch56)
 - [Zorn’s Lemma; Some Applications](#Ch57)
 
-### Introduction
-These are just meant to be notes for personal use, you may find them useful. 
+### Introduction <a name="#Ch1"></a>
+These are just meant to be notes for personal use, you may find them useful. I have very limited background in mathematics, so there may be mistakes here. 
 You will most definitely need to keep the book open on the side as this mentions specific definitions/propositions by reference for brevity. 
 
-### Groups, Rings, and Fields
-### Vector Spaces, Bases, Linear Maps
-### Matrices and Linear Maps
-### Haar Bases, Haar Wavelets, Hadamard Matrices
-### Direct Sums
-### Determinants
-### Gaussian Elimination, LU, Cholesky, Echelon Form
-### Vector Norms and Matrix Norms
-### Iterative Methods for Solving Linear Systems
-### The Dual Space and Duality
-### Euclidean Spaces
-### QR-Decomposition for Arbitrary Matrices
-### Hermitian Spaces
-### Eigenvectors and Eigenvalues
-### Unit Quaternions and Rotations in SO(3
-### Spectral Theorems
-### Computing Eigenvalues and Eigenvectors
-### Introduction to The Finite Elements Method
-### Graphs and Graph Laplacians; Basic Facts
-### Spectral Graph Drawing
-### Singular Value Decomposition and Polar Form
-### Applications of SVD and Pseudo-Inverses
-### Basics of Affine Geometry
-### Embedding an Affine Space in a Vector Space
-### Basics of Projective Geometry
-### The Cartan–Dieudonn´e Theorem
-### Isometries of Hermitian Spaces
-### The Geometry of Bilinear Forms; Witt’s Theorem
-### Polynomials, Ideals and PID’s
-### Annihilating Polynomials; Primary Decomposition
-### UFD’s, Noetherian Rings, Hilbert’s Basis Theorem
-### Tensor Algebras
-### Exterior Tensor Powers and Exterior Algebras
-### Introduction to Modules; Modules over a PID
-### Normal Forms; The Rational Canonical Form
-### Topology
-### A Detour On Fractals
-### Differential Calculus
-### Extrema of Real-Valued Functions
-### Newton’s Method and Its Generalizations
-### Quadratic Optimization Problems
-### Schur Complements and Applications
-### Convex Sets, Cones, H-Polyhedra
-### Linear Programs
-### The Simplex Algorithm
-### Linear Programming and Duality
-### Basics of Hilbert Spaces
-### General Results of Optimization Theory
-### Introduction to Nonlinear Optimization
-### Subgradients and Subdifferentials
-### Dual Ascent Methods; ADMM
-### Ridge Regression and Lasso Regression
-### Positive Definite Kernels
-### Soft Margin Support Vector Machines
-### Total Orthogonal Families in Hilbert Spaces
-### Zorn’s Lemma; Some Applications
+### Groups, Rings, and Fields <a name="#Ch2"></a>
+### Vector Spaces, Bases, Linear Maps <a name="#Ch3"></a>
+### Matrices and Linear Maps <a name="#Ch4"></a>
+### Haar Bases, Haar Wavelets, Hadamard Matrices <a name="#Ch5"></a>
+### Direct Sums <a name="#Ch6"></a>
+### Determinants <a name="#Ch7"></a>
+### Gaussian Elimination, LU, Cholesky, Echelon Form <a name="#Ch8"></a>
+### Vector Norms and Matrix Norms <a name="#Ch9"></a>
+### Iterative Methods for Solving Linear Systems <a name="#Ch10"></a>
+### The Dual Space and Duality <a name="#Ch11"></a>
+### Euclidean Spaces <a name="#Ch12"></a>
+### QR-Decomposition for Arbitrary Matrices <a name="#Ch13"></a>
+### Hermitian Spaces <a name="#Ch14"></a>
+### Eigenvectors and Eigenvalues <a name="#Ch15"></a>
+### Unit Quaternions and Rotations in SO(3 <a name="#Ch16"></a>
+### Spectral Theorems <a name="#Ch17"></a>
+### Computing Eigenvalues and Eigenvectors <a name="#Ch18"></a>
+### Introduction to The Finite Elements Method <a name="#Ch19"></a>
+### Graphs and Graph Laplacians; Basic Facts <a name="#Ch20"></a>
+### Spectral Graph Drawing <a name="#Ch21"></a>
+### Singular Value Decomposition and Polar Form <a name="#Ch22"></a>
+### Applications of SVD and Pseudo-Inverses <a name="#Ch23"></a>
+### Basics of Affine Geometry <a name="#Ch24"></a>
+### Embedding an Affine Space in a Vector Space <a name="#Ch25"></a>
+### Basics of Projective Geometry <a name="#Ch26"></a>
+### The Cartan–Dieudonn´e Theorem <a name="#Ch27"></a>
+### Isometries of Hermitian Spaces <a name="#Ch28"></a>
+### The Geometry of Bilinear Forms; Witt’s Theorem <a name="#Ch29"></a>
+### Polynomials, Ideals and PID’s <a name="#Ch30"></a>
+### Annihilating Polynomials; Primary Decomposition <a name="#Ch31"></a>
+### UFD’s, Noetherian Rings, Hilbert’s Basis Theorem <a name="#Ch32"></a>
+### Tensor Algebras <a name="#Ch33"></a>
+### Exterior Tensor Powers and Exterior Algebras <a name="#Ch34"></a>
+### Introduction to Modules; Modules over a PID <a name="#Ch35"></a>
+### Normal Forms; The Rational Canonical Form <a name="#Ch36"></a>
+### Topology <a name="#Ch37"></a>
+### A Detour On Fractals <a name="#Ch38"></a>
+### Differential Calculus <a name="#Ch39"></a>
+### Extrema of Real-Valued Functions <a name="#Ch40"></a>
+### Newton’s Method and Its Generalizations <a name="#Ch41"></a>
+### Quadratic Optimization Problems <a name="#Ch42"></a>
+### Schur Complements and Applications <a name="#Ch43"></a>
+### Convex Sets, Cones, H-Polyhedra <a name="#Ch44"></a>
+### Linear Programs <a name="#Ch45"></a>
+### The Simplex Algorithm <a name="#Ch46"></a>
+### Linear Programming and Duality <a name="#Ch47"></a>
+### Basics of Hilbert Spaces <a name="#Ch48"></a>
+### General Results of Optimization Theory <a name="#Ch49"></a>
+### Introduction to Nonlinear Optimization <a name="#Ch50"></a>
+### Subgradients and Subdifferentials <a name="#Ch51"></a>
+### Dual Ascent Methods; ADMM <a name="#Ch52"></a>
+### Ridge Regression and Lasso Regression <a name="#Ch53"></a>
+### Positive Definite Kernels <a name="#Ch54"></a>
+### Soft Margin Support Vector Machines <a name="#Ch55"></a>
+### Total Orthogonal Families in Hilbert Spaces <a name="#Ch56"></a>
+### Zorn’s Lemma; Some Applications <a name="#Ch57"></a>
