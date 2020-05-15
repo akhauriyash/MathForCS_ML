@@ -98,12 +98,14 @@ Set M with operation MxM -> M and element 'e' satisfying (G1) and (G2) is a mono
 **Special Orthogonal Group SO(n)**:
 1. Sub-group of O(n) with Det(Q) = 1
 
-Proposition 2.7: For finite group G, subgroup H of G, orcer of H divides order of G.
+**Proposition 2.7:** For finite group G, subgroup H of G, orcer of H divides order of G.
 
 **Rings**
+
 ![def2.16](images/def2.16.png)
 
 **Fields**
+
 ![def2.22](images/def2.22.png)
 
 ### Vector Spaces, Bases, Linear Maps <a name="Ch3"></a>
