@@ -141,6 +141,7 @@ Set M with operation MxM -> M and element 'e' satisfying (G1) and (G2) is a mono
 ![prop7.3](images/prop7.3.png)
 
 **Important Lemma**
+
 ![lemma7.4a](images/lemma7.4a.png)
 ![lemma7.4b](images/lemma7.4b.png)
 
