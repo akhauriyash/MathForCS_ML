@@ -3,6 +3,8 @@
 Contains important notes/definitions/propositions from the book **Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning Jean Gallier and Jocelyn Quaintance.**
 The book can be found [here.](https://www.cis.upenn.edu/~jean/gbooks/geomath.html)
 
+Important chapters (Personally, chapters as indicated by Contents): 
+2, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 22, 23, 39, 40, 41, 42, 43, 44, 45,46, 47, 48, 49, 50, 51, 52, 54
 
 
 # Table of contents
