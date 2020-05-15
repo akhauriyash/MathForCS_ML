@@ -9,13 +9,13 @@ Important chapters (Personally, chapters as indicated by Contents):
 
 # Table of contents
 
-- [Introduction](#Ch1)
-- [Groups, Rings, and Fields](#Ch2)
+- [Introduction](#Ch1) ✅
+- [Groups, Rings, and Fields](#Ch2) ✅
 - [Vector Spaces, Bases, Linear Maps](#Ch3)
 - [Matrices and Linear Maps](#Ch4)
 - [Haar Bases, Haar Wavelets, Hadamard Matrices](#Ch5)
 - [Direct Sums](#Ch6)
-- [Determinants](#Ch7)
+- [Determinants](#Ch7) ✅
 - [Gaussian Elimination, LU, Cholesky, Echelon Form](#Ch8)
 - [Vector Norms and Matrix Norms](#Ch9)
 - [Iterative Methods for Solving Linear Systems](#Ch10)
@@ -119,6 +119,24 @@ Set M with operation MxM -> M and element 'e' satisfying (G1) and (G2) is a mono
 ## Haar Bases, Haar Wavelets, Hadamard Matrices <a name="Ch5"></a>
 ## Direct Sums <a name="Ch6"></a>
 ## Determinants <a name="Ch7"></a>
+
+**Permutations**
+
+![def7.1](images/def7.1.png)
+
+**Transpositions**
+
+![def7.1b](images/def7.1b.png)
+
+**Signature of permutation**
+
+![def7.2](images/def7.2.png)
+
+**Signature of product of transpositions**
+
+![prop7.2](images/prop7.2.png)
+
+
 ## Gaussian Elimination, LU, Cholesky, Echelon Form <a name="Ch8"></a>
 ## Vector Norms and Matrix Norms <a name="Ch9"></a>
 ## Iterative Methods for Solving Linear Systems <a name="Ch10"></a>
