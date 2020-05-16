@@ -9,15 +9,15 @@ Important chapters (Personally, chapters as indicated by Contents):
 
 # Table of contents
 
-- [Introduction](#Ch1) ✅
-- [Groups, Rings, and Fields](#Ch2) ✅
+- [Introduction](#Ch1) 										✅
+- [Groups, Rings, and Fields](#Ch2) 						✅
 - [Vector Spaces, Bases, Linear Maps](#Ch3)
 - [Matrices and Linear Maps](#Ch4)
 - [Haar Bases, Haar Wavelets, Hadamard Matrices](#Ch5)
 - [Direct Sums](#Ch6)
-- [Determinants](#Ch7) ✅
-- [Gaussian Elimination, LU, Cholesky, Echelon Form](#Ch8)
-- [Vector Norms and Matrix Norms](#Ch9)
+- [Determinants](#Ch7) 										✅
+- [Gaussian Elimination, LU, Cholesky, Echelon Form](#Ch8)  ✅
+- [Vector Norms and Matrix Norms](#Ch9)						✅
 - [Iterative Methods for Solving Linear Systems](#Ch10)
 - [The Dual Space and Duality](#Ch11)
 - [Euclidean Spaces](#Ch12)
@@ -47,10 +47,10 @@ Important chapters (Personally, chapters as indicated by Contents):
 - [Normal Forms; The Rational Canonical Form](#Ch36)
 - [Topology](#Ch37)
 - [A Detour On Fractals](#Ch38)
-- [Differential Calculus](#Ch39)
-- [Extrema of Real-Valued Functions](#Ch40)
-- [Newton’s Method and Its Generalizations](#Ch41)
-- [Quadratic Optimization Problems](#Ch42)
+- [Differential Calculus](#Ch39)							✅TBC
+- [Extrema of Real-Valued Functions](#Ch40)					✅TBC
+- [Newton’s Method and Its Generalizations](#Ch41)			✅TBC
+- [Quadratic Optimization Problems](#Ch42)					
 - [Schur Complements and Applications](#Ch43)
 - [Convex Sets, Cones, H-Polyhedra](#Ch44)
 - [Linear Programs](#Ch45)
@@ -277,22 +277,46 @@ For its properties, refer to Proposition 9.17.
 ## Topology <a name="Ch37"></a>
 ## A Detour On Fractals <a name="Ch38"></a>
 ## Differential Calculus <a name="Ch39"></a>
+
+
+
+
 ## Extrema of Real-Valued Functions <a name="Ch40"></a>
+
+
+
 ## Newton’s Method and Its Generalizations <a name="Ch41"></a>
 ## Quadratic Optimization Problems <a name="Ch42"></a>
+
+
 ## Schur Complements and Applications <a name="Ch43"></a>
+
 ## Convex Sets, Cones, H-Polyhedra <a name="Ch44"></a>
+
 ## Linear Programs <a name="Ch45"></a>
+
 ## The Simplex Algorithm <a name="Ch46"></a>
+
 ## Linear Programming and Duality <a name="Ch47"></a>
+
 ## Basics of Hilbert Spaces <a name="Ch48"></a>
+
 ## General Results of Optimization Theory <a name="Ch49"></a>
+
 ## Introduction to Nonlinear Optimization <a name="Ch50"></a>
+
 ## Subgradients and Subdifferentials <a name="Ch51"></a>
+
 ## Dual Ascent Methods; ADMM <a name="Ch52"></a>
+
 ## Ridge Regression and Lasso Regression <a name="Ch53"></a>
+
 ## Positive Definite Kernels <a name="Ch54"></a>
+
 ## Soft Margin Support Vector Machines <a name="Ch55"></a>
+
 ## Total Orthogonal Families in Hilbert Spaces <a name="Ch56"></a>
+
 ## Zorn’s Lemma; Some Applications <a name="Ch57"></a>
+
 
